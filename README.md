@@ -1,6 +1,6 @@
 # recall.nvim
 
-A *neovim* jumplist upgrade to quickly navigate your recent cursor positions.
+A neovim jumplist upgrade to quickly navigate your recent cursor positions.
 
 ## What does it do?
 
